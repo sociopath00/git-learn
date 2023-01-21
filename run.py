@@ -1,6 +1,7 @@
 # Run this code
-from config import Name
+from config import Name, WELCOME_MSG
 
 
-print("Hello! How can I help you")
+print(WELCOME_MSG)
 print(f"My Name is {NAME}")
+
